@@ -6,7 +6,7 @@ ruby "3.3.2"
 # gem "rails", "~> 7.1.3", ">= 7.1.3.4"
 
 # Install PostgreSQL by default
-gem 'pg', '~> 1.5', '>= 1.5.4'
+# gem 'pg', '~> 1.5', '>= 1.5.4'
 
 gem 'activestorage', require: 'active_storage'
 
